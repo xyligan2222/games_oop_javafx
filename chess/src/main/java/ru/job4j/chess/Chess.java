@@ -31,7 +31,7 @@ public class Chess extends Application {
         if (white) {
             rect.setFill(Color.WHITE);
         } else {
-            rect.setFill(Color.GRAY);
+            rect.setFill(Color.GREEN);
         }
         rect.setStroke(Color.BLACK);
         return rect;
